@@ -1,0 +1,16 @@
+h1 {
+  background-color: red;
+  color: rgb(255, 255, 255);
+  font-family: helvetica;
+  font-style: unset;
+}
+h2 {
+  background-color: #0000ff;
+  color: #fff;
+  font-family: sans-serif;
+}
+p {
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #008000;
+}
